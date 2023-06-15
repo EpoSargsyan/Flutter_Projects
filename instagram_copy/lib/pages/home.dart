@@ -3,7 +3,7 @@ import 'package:insta_copy_2/util/bubble_stories.dart';
 import 'package:insta_copy_2/util/user_posts.dart';
 
 class UserHome extends StatelessWidget {
-  final List people = ['epo', 'art', 'muk', 'val', 'tiko', 'suro'];
+  final List people = ['aaa', 'bbb', 'ccc', 'ddd', 'eee', 'fff'];
 
   @override
   Widget build(BuildContext context) {
